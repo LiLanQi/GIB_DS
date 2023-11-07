@@ -29,7 +29,7 @@ Extensive experimentation across diverse datasets underscores the superiority of
 - torch-sparse versions: 0.6.16+pt112cu113
 - torch-geometric version: 2.2.0
 - texttable versions:1.7.0
-- versions version: 2.6.2.2
+- tensorboardX version: 2.6.2.2
 
 ### How to Run the code?
 
