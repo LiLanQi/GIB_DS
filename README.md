@@ -49,7 +49,7 @@ Here, we take the example of running a similarity learning task
   pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
   ```
 
-- After that, install the required Python libraries with the following commands. Note that the installation of the torch_geometric library is a bit more complicated, and you need to go to the corresponding website to download the whl file and then install it. Here, we are using torch-geometric version 2.2.0, if it is any other version, you may get an error when you run the code.
+- After that, install the required Python libraries with the following commands. Note that the installation of the torch_geometric library is a bit more complicated, and you need to go to the corresponding website to download the whl file and then install it. Website :https://data.pyg.org/whl/. Here, we are using torch-geometric version 2.2.0, if it is any other version, you may get an error when you run the code.
 
   ```python
   pip install scikit-learn==1.2.0
