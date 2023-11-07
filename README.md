@@ -26,9 +26,9 @@ Extensive experimentation across diverse datasets underscores the superiority of
 - scikit-learn version: 1.2.0
 - torch-scatter version: 2.1.0+pt112cu113
 - torch-cluster version: 1.6.0+pt112cu113
-- torch-sparse versions: 0.6.16+pt112cu113
+- torch-sparse version: 0.6.16+pt112cu113
 - torch-geometric version: 2.2.0
-- texttable versions:1.7.0
+- texttable version:1.7.0
 - tensorboardX version: 2.6.2.2
 
 ### How to Run the code?
